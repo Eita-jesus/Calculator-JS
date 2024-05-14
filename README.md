@@ -2,9 +2,9 @@
 
 O Calculator-JS é um pequeno projeto de uma calculadora 100% funcional.
 
-O intuito foi aprimorar meus conhecimentos de HTML CSS e JavaScrit.
+O intuito foi aprimorar meus conhecimentos de HTML CSS e JavaScript.
 
-Boa parte do código está comentado, senvindo assim de auxilio para outros projetos. 
+Boa parte do código está comentado, que será utilizado como auxilio para outros futuros projetos. 
 
 Realize o download e execute o index.html
 
