@@ -2,6 +2,8 @@
 
 O Calculator-JS é um pequeno projeto de uma calculadora 100% funcional.
 
+[Clique aqui para visualizar esse projeto](https://eita-jesus.github.io/Calculator-JS/)
+
 O intuito foi aprimorar meus conhecimentos de HTML CSS e JavaScript.
 
 Boa parte do código está comentado, que será utilizado como auxilio para outros futuros projetos. 
